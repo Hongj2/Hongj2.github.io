@@ -1,11 +1,11 @@
 # Site settings
-author: Jessica Hong
-title: 
+author: Jessica H
+title: Ctrl Blog
 header-img: img/home-bg.png
 email: jessicahong.ngnr@gmail.com
-copyright_name: Jessica Hong
+copyright_name: Jessica H
 description: > # this means to ignore newlines until "baseurl:"
-  
+  CB on Ruby and JavaScripts
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Hongj2
